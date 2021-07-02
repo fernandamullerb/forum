@@ -1,5 +1,8 @@
 # API REST com Spring Boot
-Construção de uma API para cadastrar, excluir, alterar, detalhar e listar todos os tópicos de um fórum de dúvidas, desenvolvida no curso <b>"Spring Boot API REST"</b> da Formação em Spring Framework da Alura.
+Construção de uma API para cadastrar, excluir, alterar, detalhar e listar todos os tópicos de um fórum de dúvidas, desenvolvida no curso <b>"Spring Boot API REST"</b> da Formação em Spring Framework da Alura. <br><br>
+
+<img src="https://github.com/fernandamullerb/forum/blob/main/endpoints.png" alt="endpoints"/>
+
 Para acessar a documentação completa, basta executar o projeto e entrar no entreço http://localhost:8080/swagger-ui.html.
 
 ## Etapas:
