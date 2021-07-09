@@ -13,6 +13,7 @@ Para acessar a documentação completa, basta executar o projeto e entrar no ent
 - Restrição de acesso com Spring Security e autenticação stateless utilizando token JWT
 - Monitoramento com Spring Boot Actuator e Spring Boot Admin
 - Documentação com SpringFox Swagger
+- Implementação de testes automatizados com JUnit.
 
 
 ## Tecnologias:
@@ -22,3 +23,4 @@ Para acessar a documentação completa, basta executar o projeto e entrar no ent
 - H2 Database
 - Postman
 - Swagger
+- JUnit
